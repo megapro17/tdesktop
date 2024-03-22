@@ -419,7 +419,7 @@ bool Enforced() {
 }
 
 bool ByDefault() {
-	return false;
+	return true;
 }
 
 void Create(Window::Notifications::System *system) {
